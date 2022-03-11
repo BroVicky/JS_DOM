@@ -1,0 +1,40 @@
+body {
+    background-color: dimgray;
+}
+
+#container {
+    height: 200px;
+    width: 500px;
+    border: 10px ;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#number {
+    height: 30px;
+    width: 250px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+#increase {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+#decrease {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
